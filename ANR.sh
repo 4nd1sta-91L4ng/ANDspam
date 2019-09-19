@@ -6,7 +6,7 @@ echo "\033[36;1m" "                    AUTHOR : 0m_4ndR3 && T34m"
 echo "\033[36;1m" "                    		ANDRIAKODE"
 echo "\033[35;1m #Budidayakan Spam Mantan ^_^ #"
 echo "\033[34;1m" "https://andriakode.online"
-echo "\033[34;1m" "Bug Hunter, Security Researcher"
+echo "\033[34;1m" "Bug Hunter, Security Researcher, Penetration Tester"
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 date | lolcat
 echo ""
