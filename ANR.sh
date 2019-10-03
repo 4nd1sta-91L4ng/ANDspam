@@ -2,15 +2,15 @@ clear
 figlet -f bigmono9 "AND Spam" | lolcat
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m  "
-echo "\033[36;1m" "                    AUTHOR : 0m_4ndR3 && T34m"
-echo "\033[36;1m" "                    		ANDRIAKODE"
-echo "\033[35;1m #Budidayakan Spam Mantan ^_^ #"
-echo "\033[34;1m" "https://andriakode.online"
-echo "\033[34;1m" "Bug Hunter, Security Researcher, Penetration Tester"
+echo "\033[36;1m" "                    AUTHOR : ANDISTA and Friends"
+echo "\033[36;1m" "                    		FB: https://www.facebook.com/andistacandraysuro"
+echo "\033[35;1m #Loe Jual, Gua Beli Gan... ^_^ #"
+echo "\033[34;1m" "http://andista.civitas.unipma.ac.id/"
+echo "\033[34;1m" "Kenalin, gua pegang sistemnya UNIPMA, macam-macam gua bantai lu pada.. ape loe, ape loe"
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 date | lolcat
 echo ""
-     echo "\033[34;1m"" SPAM yang tersedia "
+     echo "\033[34;1m"" SPAM yang tersedia by ANDISTA CANDRA YUSRO"
      echo "\033[33;1m""    (01)JDID "
      echo "\033[32;1m""    (02)TELKOMSEL "
      echo "\033[33;1m""    (03)PHD"
