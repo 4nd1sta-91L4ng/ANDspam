@@ -2,8 +2,8 @@ clear
 figlet -f bigmono9 "AND Spam" | lolcat
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m  "
-echo "\033[36;1m" "                    AUTHOR : ANDISTA CANDRA YUSRO and Friends"
-echo "\033[36;1m" "                    FB: https://www.facebook.com/andistacandraysuro"
+echo "\033[36;1m" "                    AUTHOR : ANDISTA and Friends"
+echo "\033[36;1m" "                    FB: ANDISTA CANDRA YUSRO"
 echo "\033[35;1m #Loe Jual, Gua Beli Gan... ^_^ ini nomor gua: 085649103645 #"
 echo "\033[34;1m" "http://andista.civitas.unipma.ac.id/"
 echo "\033[34;1m" "Kenalin, gua pegang sistemnya UNIPMA, macam-macam gua bantai lu pada.. ape loe, ape loe"
