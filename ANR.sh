@@ -1,16 +1,16 @@
 clear
-figlet -f bigmono9 "AND Spam" | lolcat
+figlet -f bigmono9 "SERVER ACCESS" | lolcat
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m  "
 echo "\033[36;1m" "                    AUTHOR : 0m_4ndR3"
 echo "\033[36;1m" "                    IG: andriakode"
-echo "\033[35;1m #White Hat#"
+echo "\033[35;1m # White Hat #"
 echo "\033[34;1m" "https://andriakode.online/"
 echo "\033[34;1m" "Seperti ilmu padi..."
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 date | lolcat
 echo ""
-     echo "\033[34;1m"" MONGGO DIPILIH:"
+     echo "\033[34;1m"" TERSEDIA VARIAN RASA, MONGGO DIPILIH:"
      echo "\033[33;1m""    (01)JDID "
      echo "\033[32;1m""    (02)TELKOMSEL "
      echo "\033[33;1m""    (03)PHD"
