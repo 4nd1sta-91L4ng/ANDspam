@@ -2,22 +2,22 @@ clear
 figlet -f bigmono9 "AND Spam" | lolcat
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m  "
-echo "\033[36;1m" "                    AUTHOR : ANDISTA and Friends"
-echo "\033[36;1m" "                    FB: ANDISTA CANDRA YUSRO"
-echo "\033[35;1m #Loe Jual, Gua Beli Gan... ^_^ ini nomor gua: 085649103645 #"
-echo "\033[34;1m" "http://andista.civitas.unipma.ac.id/"
-echo "\033[34;1m" "Kenalin, gua pegang sistemnya UNIPMA, macam-macam gua bantai lu pada.. ape loe, ape loe"
+echo "\033[36;1m" "                    AUTHOR : 0m_4ndR3"
+echo "\033[36;1m" "                    IG: andriakode"
+echo "\033[35;1m #White Hat#"
+echo "\033[34;1m" "https://andriakode.online/"
+echo "\033[34;1m" "Seperti ilmu padi..."
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 date | lolcat
 echo ""
-     echo "\033[34;1m"" SPAM yang tersedia by ANDISTA CANDRA YUSRO"
+     echo "\033[34;1m"" MONGGO DIPILIH:"
      echo "\033[33;1m""    (01)JDID "
      echo "\033[32;1m""    (02)TELKOMSEL "
      echo "\033[33;1m""    (03)PHD"
      echo "\033[32;1m""    (04)TOKOPEDIA" 
-     echo "\033[33;1m""    (05)Lazada "
+     echo "\033[33;1m""    (05)LAZADA "
      echo "\033[34;1m""    (00)INFO "
-     echo "\033[34;1m""    (99)Keluar "
+     echo "\033[34;1m""    (99)EXIT "
 echo "\033[33;1m"" pilih nomer nya "
 read ezz 
 
@@ -71,8 +71,8 @@ fi
 
 if [ $ezz = 99 ]
 then
-echo "semoga hari mu menyenangkan"
-echo " Trims "
+echo "No System is Safe ^_^"
+echo " Thanks "
 fi
 
 
